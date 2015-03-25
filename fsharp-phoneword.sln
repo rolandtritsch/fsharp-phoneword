@@ -3,6 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
 Project("{f2a71f9b-5d33-465a-a702-920d77279786}") = "iOS", "iOS\iOS.fsproj", "{02214A0A-9F3C-42CB-9626-36D85C5F4E83}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{DE07ADBB-909F-4D1C-A1D0-36132EDAF5FC}"
+	ProjectSection(SolutionItems) = preProject
+		README.md = README.md
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|iPhoneSimulator = Debug|iPhoneSimulator
@@ -25,5 +30,7 @@ Global
 		{02214A0A-9F3C-42CB-9626-36D85C5F4E83}.Release|iPhone.Build.0 = Release|iPhone
 		{02214A0A-9F3C-42CB-9626-36D85C5F4E83}.Release|iPhoneSimulator.ActiveCfg = Release|iPhoneSimulator
 		{02214A0A-9F3C-42CB-9626-36D85C5F4E83}.Release|iPhoneSimulator.Build.0 = Release|iPhoneSimulator
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
 	EndGlobalSection
 EndGlobal

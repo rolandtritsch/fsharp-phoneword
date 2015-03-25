@@ -7,7 +7,8 @@ open Foundation
 [<Register("AppDelegate")>]
 type AppDelegate() = 
     inherit UIApplicationDelegate()
-    member val Window = null with get, set
+    override val Window = null with get, set
+
     // This method is invoked when the application is ready to run.
     override this.FinishedLaunching(app, options) = 
         this.Window <- new UIWindow(UIScreen.MainScreen.Bounds)
