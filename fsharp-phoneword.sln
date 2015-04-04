@@ -33,4 +33,25 @@ Global
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		Policies = $0
+		$0.DotNetNamingPolicy = $1
+		$1.DirectoryNamespaceAssociation = None
+		$1.ResourceNamePolicy = FileFormatDefault
+		$0.TextStylePolicy = $2
+		$2.inheritsSet = null
+		$2.scope = text/x-fsharp
+		$0.FSharpFormattingPolicy = $3
+		$3.DefaultFormat = $4
+		$4.IndentOnTryWith = False
+		$4.ReorderOpenDeclaration = False
+		$4.SpaceAfterComma = True
+		$4.SpaceAfterSemicolon = True
+		$4.SpaceAroundDelimiter = True
+		$4.SpaceBeforeArgument = True
+		$4.SpaceBeforeColon = True
+		$3.scope = text/x-fsharp
+		$0.VersionControlPolicy = $5
+		$5.inheritsSet = Mono
+	EndGlobalSection
 EndGlobal

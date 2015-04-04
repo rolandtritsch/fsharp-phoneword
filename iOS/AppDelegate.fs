@@ -1,4 +1,4 @@
-﻿namespace iOS
+﻿namespace Phoneword
 
 open System
 open UIKit
