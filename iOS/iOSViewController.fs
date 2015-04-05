@@ -15,4 +15,3 @@ type iOSViewController() =
     // Return true for supported orientations
     override this.ShouldAutorotateToInterfaceOrientation(orientation) = 
         orientation <> UIInterfaceOrientation.PortraitUpsideDown
-

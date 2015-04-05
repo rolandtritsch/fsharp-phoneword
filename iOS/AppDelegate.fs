@@ -24,4 +24,3 @@ module Main =
     let main args = 
         UIApplication.Main(args, null, "AppDelegate")
         0
-
