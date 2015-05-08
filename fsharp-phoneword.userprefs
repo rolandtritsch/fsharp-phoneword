@@ -1,6 +1,10 @@
-﻿<Properties StartupItem="iOS/iOS.fsproj">
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.IPhone4s.8.2" />
-  <MonoDevelop.Ide.Workbench />
+﻿<Properties StartupItem="iOS2/iOS2.fsproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.IPhone5s.8.3" />
+  <MonoDevelop.Ide.Workbench>
+    <Files>
+      <File FileName="iOS2/iOS2ViewController.fs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
